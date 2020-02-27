@@ -1,0 +1,86 @@
+content='<html><head>
+<base target="_blank">
+<style type="text/css">
+::-webkit-scrollbar{ display: none; }
+</style>
+<style id="cloudAttachStyle" type="text/css">
+#divNeteaseBigAttach, #divNeteaseBigAttach_bak{display:none;}
+</style>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+<body tabindex="0" role="listitem">
+
+  <div id="content">
+    <style type="text/css">
+      a, a:link, a:visited, a:active {color:#007eff;text-decoration:none;}
+      a:hover {text-decoration:underline}
+      * {text-rendering:optimizelegibility;-webkit-font-smoothing:antialiased;}
+      img {-ms-interpolation-mode: bicubic;}
+      table {border-collapse: collapse; border-spacing: 0;}
+
+      _media (max-width: 480px) {
+        div[class=aapl-mobile-div] {display: block !important;-webkit-text-size-adjust:none;height:100% !important;important;overflow:visible !important;max-height:none !important;min-height:none !important;line-height:normal !important;}
+        div[class=aapl-desktop-div] {display: none !important;height:0;overflow:hidden !important;max-height:0;min-height:0;line-height:0}
+      }
+      _media only screen and (min-width: 768px) and (max-width: 1024px) {
+        a {color:inherit}
+      }
+    </style>
+    <br><br>
+    <table border="0" cellpadding="0" cellspacing="0" align="center" style="border-collapse:collapse;border-spacing:0;">
+      <tbody>
+        <tr>
+          <td valign="top">
+            <div class="aapl-desktop-div" style="display:block;padding:0;margin:0;height:100%;max-height:none;min-height:none;line-height:normal;overflow:visible;">
+              <table class="aapl-desktop-tbl" border="0" cellpadding="0" cellspacing="0" align="center" style="border-collapse:collapse;border-spacing:0;width:742px;">
+                <tbody>
+                  <!-- Head -->
+                  <tr>
+                    <td class="left-gutter" style="width:40px;"></td>
+                    <td><img width="42" height="42" alt="Apple" src="https://s.mzstatic.com/email/images_shared/logo_apple_d-2x.png" border="0" style="border:none;padding:0;margin:0;-ms-interpolation-mode:bicubic;"></td>
+                    <td zh-cn="" false="" align="right" style="font-size:32px; font-weight:300; font-family: Helvetica, Arial, sans-serif; color: rgb(136,136,136)">App Store 价格变更通知</td>
+                    <td class="right-gutter" style="width:40px;"></td>
+                  </tr>
+                  <tr height="20"><td colspan="4"></td></tr>
+
+                  <tr>
+                    <td colspan="4" align="center">
+                      <table class="aapl-desktop-tbl" border="0" cellspacing="0" cellpadding="0" width="660" style="border-collapse:collapse;border-spacing:0;">
+                        <tbody>
+						<tr height="24" style="background-color: rgb(250,250,250);" class="section-header">
+						          <td colspan="3" width="350" style="width:350px;padding-left:10px;border-top-left-radius:3px;border-bottom-left-radius:3px;"><span style="font-size:14px;font-weight:500;">App Store</span></td>
+								          </tr>
+                          <tr>
+                            <td>
+                              <table class="aapl-desktop-tbl" width="660" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse;border-spacing:0;width:660px;color:rgb(51,51,51);font-size:12px;font-family:Helvetica,Arial,sans-serif;">
+                              <tbody>
+                                '${content}'
+                              </tbody></table>
+                            </td>
+                          </tr>
+                        </tbody>
+                      </table>
+                    </td>
+                  </tr>
+                  <tr height="25"><td colspan="4" height="30"></td></tr>
+                </tbody>
+              </table>
+            </div>  
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <img border="0" alt="" width="1" height="1" src="https://xp.apple.com/report/2/its_mail_sf?responseType=image&amp;emailType=invoice&amp;lang=zh_cn&amp;eventType=open" style="border:none;display:none;"> <br>
+  </div>
+  <style type="text/css">
+    body{font-size:14px;font-family:arial,verdana,sans-serif;line-height:1.666;padding:0;margin:0;overflow:auto;white-space:normal;word-wrap:break-word;min-height:100px}
+    td, input, button, select, body{font-family:Helvetica, verdana}
+    pre {white-space:pre-wrap;white-space:-moz-pre-wrap;white-space:-pre-wrap;white-space:-o-pre-wrap;word-wrap:break-word;width:95%}
+    th,td{font-family:arial,verdana,sans-serif;line-height:1.666}
+    img{ border:0}
+    header,footer,section,aside,article,nav,hgroup,figure,figcaption{display:block}
+    blockquote{margin-right:0px}
+  </style>
+  <style id="ntes_link_color" type="text/css">a,td a{color:#064977}</style>
+</body>
+</html>'
